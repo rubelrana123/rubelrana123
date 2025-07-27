@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m exploring - MERN Technology.<br>👯  I’m looking - To collaborate on open source projects.<br>🤔 I’m trying - To help people learn web development.<br>⚡ Fun fact - I love to make Project and Explore New Technology.
+🌱 I’m exploring - Full stack Technology.<br>👯  I’m looking - To collaborate on open source projects.<br>🤔 I’m trying - To help people learn web development.<br>⚡ Fun fact - I love to make Project and Explore New Technology.
 
 
 ## 🌐 Socials:
