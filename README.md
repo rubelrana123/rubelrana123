@@ -14,10 +14,8 @@ For more details on me: [resume](https://drive.google.com/file/d/17n_VFkJy0h4dY9
  
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="images/breakout-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="images/breakout-light.svg">
-  <img alt="Breakout Game" src="images/breakout-light.svg">
-</picture>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/rubel400310) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rubelrana123) 
+
 
  
