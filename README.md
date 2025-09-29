@@ -10,12 +10,21 @@
   "interest": ["Tech", "Running", "Cycling", "Hiking", "..."]
 }
 ```
-For more details on me: [resume](https://drive.google.com/file/d/17n_VFkJy0h4dY9RIv-nqh2MvXJfCnIT3/view?usp=sharing)
+## For more details on me: [resume](https://drive.google.com/file/d/17n_VFkJy0h4dY9RIv-nqh2MvXJfCnIT3/view?usp=sharing)
  
 ---
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/rubel400310) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rubelrana123) 
+<div align="center">
+<h3>📬 Let's Collaborate & Innovate!</h3>
+<p>I'm always thrilled to connect with fellow developers, designers, and tech enthusiasts. <br/> Feel free to reach out for a project, a question, or just to chat about the latest in tech!</p>
+<p>
+<a href="https://www.facebook.com/share/rubel4000310" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://www.linkedin.com/in/rubelrana123" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="rubelrana.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+<p style="font-style: italic;">If you appreciate my work, a ⭐ on my projects would mean a lot!</p>
+</div>
+
 
 📊 My GitHub Universe
 <div align="center">
