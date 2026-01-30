@@ -1,6 +1,6 @@
 # 𝕽𝖚𝖇𝖊𝖑 𝕽𝖆𝖓𝖆 ✪
 
-### Full-Stack Developer | MERN Stack Enthusiast
+### Full-Stack Developer  
 
 I'm a **Full-Stack Developer** based in **Dhaka, Bangladesh**, passionate about building scalable, user-friendly, and high-performance web applications.  
 I enjoy solving real-world problems and continuously learning modern web technologies to improve user experience.
@@ -81,17 +81,9 @@ I enjoy solving real-world problems and continuously learning modern web technol
 </a>
 </td>
 </tr>
-<tr>
-<td colspan="2">
-<img src="https://github-profile-trophy.vercel.app/?username=rubelrana123&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4&row=1&column=7&rank=-C" alt="GitHub Trophies" />
-</td>
-</tr>
 </table>
 </div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rubelrana123&bg_color=0d1117&color=ffffff&line=ff00bb&point=ffffff&area=true&hide_border=true"  />
-</div>
+ 
  
 ```
  
