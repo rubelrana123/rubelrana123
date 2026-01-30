@@ -1,28 +1,66 @@
-## Hey I'm Rubel 👋
+# 𝕽𝖚𝖇𝖊𝖑 𝕽𝖆𝖓𝖆 ✪
 
-```json
-{
-  "role": "Junior Web Developer",
-  "birthday": "2002-01-22",
-  "country": "Bangladesh",
-  "city": "Dinajpur",
-  "stack": ["Typescript", "React", "Next", "Express", "Mongoose", "" "..."],
-  "interest": ["Tech", "Running", "Cycling", "Hiking", "..."]
-}
-```
-## For more details on me: [resume](https://drive.google.com/file/d/17n_VFkJy0h4dY9RIv-nqh2MvXJfCnIT3/view?usp=sharing)
- 
+### Full-Stack Developer | MERN Stack Enthusiast
+
+I'm a **Full-Stack Developer** based in **Dhaka, Bangladesh**, passionate about building scalable, user-friendly, and high-performance web applications.  
+I enjoy solving real-world problems and continuously learning modern web technologies to improve user experience.
+
 ---
 
-<div align="center">
-<h3>📬 Let's Collaborate & Innovate!</h3>
-<p>I'm always thrilled to connect with fellow developers, designers, and tech enthusiasts. <br/> Feel free to reach out for a project, a question, or just to chat about the latest in tech!</p>
-<p>
-<a href="https://www.facebook.com/share/rubel4000310" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://www.linkedin.com/in/rubelrana123" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="rubelrana.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+### </> Tech Stack & Expertise
+
+**⚝ Core Expertise**
+* **Languages:** JavaScript (ES6+), TypeScript  
+* **Frontend:** React.js, Next.js  
+* **Backend:** Express.js, RESTful APIs  
+* **State & Auth:** Redux Toolkit, JWT, OAuth  
+* **Database & ORM:** PostgreSQL, Prisma, Mongoose  
+
+
+**{_} Tools & Deployment**
+* Git, GitHub  
+* Postman, VS Code  
+* Vercel, Render, Firebase  
+
+---
+
+### ⎙ Featured Projects
+* **[EventHub – Event Participate Platform](https://github.com/rubelrana123/EventHub_Server)**  
+  The EventHub Platform connects individuals who want to participate in local events, sports or hobbies but lack companions. Whether it’s a concert, a hiking trip, a board game night or a       tech meetup, users can find like-minded people to join them. 
+  **Tech:** NextJS, Node.js, Typescript, Postgresql, Stripe
+  
+* **[My-Trip – Ride-Share Platform](https://github.com/rubelrana123/MT-Ride-Sharing-Client)**  
+  A modern role-based ride booking system for **Riders, Drivers, and Admins**.  
+  Includes real-time ride tracking, earnings management, and admin analytics.  
+  **Tech:** React, TypeScript, Redux Toolkit, Tailwind, Express, Mongoose  
+
+* **[Book Society – Book Reading Platform](https://github.com/Sahariar/books-society)**  
+  A Next.js-based platform for book readers with dashboard functionality and PDF reading support.  
+  **Tech:** Next.js, Tailwind CSS, DaisyUI, MongoDB, Mongoose  
+
+
+
+---
+
+### 🌐 Languages
+
+* **Bangla:** Native  
+* **English:** Comfortable  
+
+---
+
+### ☞ Let's Connect!
+
+* **Portfolio:** [https://rubel-rana.vercel.app/](https://rubel-rana.vercel.app/)  
+* **LinkedIn:** [https://linkedin.com/in/rubelrana-bd](https://linkedin.com/in/rubelrana-bd)  
+* **Email:** [rubelrana.dev@gmail.com](mailto:rubelrana.dev@gmail.com)
+
+---
+
+<p align="center">
+  <i>"First, solve the problem. Then, write the code."</i>
 </p>
-</div>
+
 
 
 📊 My GitHub Universe
