@@ -26,7 +26,7 @@ I enjoy solving real-world problems and continuously learning modern web technol
 
 ### ⎙ Featured Projects
 * **[EventHub – Event Participate Platform](https://github.com/rubelrana123/EventHub_Server)**  
-  The EventHub Platform connects individuals who want to participate in local events, sports or hobbies but lack companions. Whether it’s a concert, a hiking trip, a board game night or a       tech meetup, users can find like-minded people to join them. 
+  The EventHub Platform connects individuals who want to participate in local events, sports, or hobbies but lack companions. Whether it’s a concert, a hiking trip, a board game night or a       tech meetup, users can find like-minded people to join them. 
   **Tech:** NextJS, Node.js, Typescript, Postgresql, Stripe
   
 * **[My-Trip – Ride-Share Platform](https://github.com/rubelrana123/MT-Ride-Sharing-Client)**  
