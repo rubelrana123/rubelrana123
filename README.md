@@ -58,7 +58,7 @@ I enjoy solving real-world problems and continuously learning modern web technol
 ---
 
 <p align="center">
-  <i>"First, solve the problem. Then, write the code."</i>
+  <i>"First, solve the problem. Then, write the code"</i>
 </p>
 
 
