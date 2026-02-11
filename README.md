@@ -12,7 +12,7 @@ I enjoy solving real-world problems and continuously learning modern web technol
 **⚝ Core Expertise**
 * **Languages:** JavaScript (ES6+), TypeScript  
 * **Frontend:** React.js, Next.js  
-* **Backend:** Express.js, RESTful APIs  
+* **Backend:** Express.js, RESTful APIs
 * **State & Auth:** Redux Toolkit, JWT, OAuth  
 * **Database & ORM:** PostgreSQL, Prisma, Mongoose  
 
