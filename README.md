@@ -20,7 +20,7 @@ I enjoy solving real-world problems and continuously learning modern web technol
 **{_} Tools & Deployment**
 * Git, GitHub  
 * Postman, VS Code  
-* Vercel, Render, Firebase  
+* Vercel, Render, Firebase    
 
 ---
 
