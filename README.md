@@ -7,7 +7,7 @@ I enjoy solving real-world problems and continuously learning modern web technol
     
 ---      
     
-### </> Tech Stack & Expertise
+### </> Tech Stack & Expertise 
 
 **⚝ Core Expertise** 
 * **Languages:** JavaScript (ES6+), TypeScript  
